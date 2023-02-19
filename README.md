@@ -8,3 +8,6 @@
 ### 多尺度特征融合相关
 1. [Spatial Attention for Multi-Scale Feature Refinement for Object Detection](https://openaccess.thecvf.com/content_ICCVW_2019/papers/VISDrone/Wang_Spatial_Attention_for_Multi-Scale_Feature_Refinement_for_Object_Detection_ICCVW_2019_paper.pdf)【ICCVW】【2019】
 2. [Small Object Detection in Unmanned Aerial Vehicle Images Using Feature Fusion and Scaling-Based Single Shot Detector With Spatial Context Analysis](https://ieeexplore.ieee.org/document/8672115)【TCSVT】【2019】
+
+### 多任务优化
+1. [Simultaneously Detecting and Counting Dense Vehicles From Drone Images](https://ieeexplore.ieee.org/document/8648370)【TIE】【2019】
