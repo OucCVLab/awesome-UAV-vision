@@ -10,12 +10,14 @@
 7. [Coarse-grained Density Map Guided Object Detection in Aerial Images](https://ieeexplore.ieee.org/document/9607840)【ICCVW】【2021】
 8. [TPH-YOLOv5: Improved YOLOv5 Based on Transformer Prediction Head for Object Detection on Drone-captured Scenarios](https://arxiv.org/abs/2108.11539)【ICCVW】【2021】
 9. [ViT-YOLO:Transformer-Based YOLO for Object Detection](https://ieeexplore.ieee.org/document/9607536)【ICCVW】【2021】
-10. [Density Map Guided Object Detection in Aerial Images](https://arxiv.org/abs/2004.05520)【CVPRW】【2020】
-11. [Spatial Attention for Multi-Scale Feature Refinement for Object Detection](https://openaccess.thecvf.com/content_ICCVW_2019/papers/VISDrone/Wang_Spatial_Attention_for_Multi-Scale_Feature_Refinement_for_Object_Detection_ICCVW_2019_paper.pdf)【ICCVW】【2019】
-12. [How to Fully Exploit The Abilities of Aerial Image Detectors](https://ieeexplore.ieee.org/document/9022557)【ICCVW】【2019】
-13. [The Power of Tiling for Small Object Detection](https://ieeexplore.ieee.org/document/9025422)【CVPRW】【2019】
-14. [Small Object Detection in Unmanned Aerial Vehicle Images Using Feature Fusion and Scaling-Based Single Shot Detector With Spatial Context Analysis](https://ieeexplore.ieee.org/document/8672115)【TCSVT】【2019】
-15. [Simultaneously Detecting and Counting Dense Vehicles From Drone Images](https://ieeexplore.ieee.org/document/8648370)【TIE】【2019】
-16. [Clustered Object Detection in Aerial Images](https://arxiv.org/abs/2105.02440)【ICCV】【2019】
-17. [Dynamic Zoom-in Network for Fast Object Detection in Large Images](https://arxiv.org/abs/1711.05187)【CVPR】【2018】
-18. [daptive Object Detection Using Adjacency and Zoom Prediction](https://arxiv.org/abs/1512.07711)【CVPR】【2016】
+10. [Object Detection Using Clustering Algorithm Adaptive Searching Regions in Aerial Images](https://link.springer.com/chapter/10.1007/978-3-030-66823-5_39)【ECCV】【2020】
+11. [A Global-Local Self-Adaptive Network for Drone-View Object Detection](https://ieeexplore.ieee.org/document/9305976)【TIP】【2020】
+12. [Density Map Guided Object Detection in Aerial Images](https://arxiv.org/abs/2004.05520)【CVPRW】【2020】
+13. [Spatial Attention for Multi-Scale Feature Refinement for Object Detection](https://openaccess.thecvf.com/content_ICCVW_2019/papers/VISDrone/Wang_Spatial_Attention_for_Multi-Scale_Feature_Refinement_for_Object_Detection_ICCVW_2019_paper.pdf)【ICCVW】【2019】
+14. [How to Fully Exploit The Abilities of Aerial Image Detectors](https://ieeexplore.ieee.org/document/9022557)【ICCVW】【2019】
+15. [The Power of Tiling for Small Object Detection](https://ieeexplore.ieee.org/document/9025422)【CVPRW】【2019】
+16. [Small Object Detection in Unmanned Aerial Vehicle Images Using Feature Fusion and Scaling-Based Single Shot Detector With Spatial Context Analysis](https://ieeexplore.ieee.org/document/8672115)【TCSVT】【2019】
+17. [Simultaneously Detecting and Counting Dense Vehicles From Drone Images](https://ieeexplore.ieee.org/document/8648370)【TIE】【2019】
+18. [Clustered Object Detection in Aerial Images](https://arxiv.org/abs/2105.02440)【ICCV】【2019】
+19. [Dynamic Zoom-in Network for Fast Object Detection in Large Images](https://arxiv.org/abs/1711.05187)【CVPR】【2018】
+20. [daptive Object Detection Using Adjacency and Zoom Prediction](https://arxiv.org/abs/1512.07711)【CVPR】【2016】
