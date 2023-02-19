@@ -11,3 +11,6 @@
 
 ### 多任务优化
 1. [Simultaneously Detecting and Counting Dense Vehicles From Drone Images](https://ieeexplore.ieee.org/document/8648370)【TIE】【2019】
+
+### 其他
+1. [Detection, Tracking, and Counting Meets Drones in Crowds: A Benchmark](https://arxiv.org/abs/2105.02440)【CVPR】【2021】
