@@ -6,6 +6,7 @@
 3. [Detection, Tracking, and Counting Meets Drones in Crowds: A Benchmark](https://arxiv.org/abs/2105.02440)【CVPR】【2021】
 4. [VistrongerDet: Stronger Visual Information for Object Detection in VisDrone Images](https://ieeexplore.ieee.org/document/9607555)【ICCVW】【2021】
 5. [Spatial Attention for Multi-Scale Feature Refinement for Object Detection](https://openaccess.thecvf.com/content_ICCVW_2019/papers/VISDrone/Wang_Spatial_Attention_for_Multi-Scale_Feature_Refinement_for_Object_Detection_ICCVW_2019_paper.pdf)【ICCVW】【2019】
-6. [Small Object Detection in Unmanned Aerial Vehicle Images Using Feature Fusion and Scaling-Based Single Shot Detector With Spatial Context Analysis](https://ieeexplore.ieee.org/document/8672115)【TCSVT】【2019】
+6. [The Power of Tiling for Small Object Detection](https://ieeexplore.ieee.org/document/9025422)【CVPRW】【2019】
+7. [Small Object Detection in Unmanned Aerial Vehicle Images Using Feature Fusion and Scaling-Based Single Shot Detector With Spatial Context Analysis](https://ieeexplore.ieee.org/document/8672115)【TCSVT】【2019】
 
-7. [Simultaneously Detecting and Counting Dense Vehicles From Drone Images](https://ieeexplore.ieee.org/document/8648370)【TIE】【2019】
+8. [Simultaneously Detecting and Counting Dense Vehicles From Drone Images](https://ieeexplore.ieee.org/document/8648370)【TIE】【2019】
