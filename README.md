@@ -4,3 +4,6 @@
 
 ### 裁剪相关的工作
 1. [Pareto Refocusing for Drone-view Object Detection](https://ieeexplore.ieee.org/document/9905640)【TCSVT】【2022】
+
+### 多尺度特征融合相关
+1. [Spatial Attention for Multi-Scale Feature Refinement for Object Detection](https://openaccess.thecvf.com/content_ICCVW_2019/papers/VISDrone/Wang_Spatial_Attention_for_Multi-Scale_Feature_Refinement_for_Object_Detection_ICCVW_2019_paper.pdf)【ICCVW】【2019】
