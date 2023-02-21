@@ -18,6 +18,6 @@
 15. [The Power of Tiling for Small Object Detection](https://ieeexplore.ieee.org/document/9025422)【CVPRW】【2019】
 16. [Small Object Detection in Unmanned Aerial Vehicle Images Using Feature Fusion and Scaling-Based Single Shot Detector With Spatial Context Analysis](https://ieeexplore.ieee.org/document/8672115)【TCSVT】【2019】
 17. [Simultaneously Detecting and Counting Dense Vehicles From Drone Images](https://ieeexplore.ieee.org/document/8648370)【TIE】【2019】
-18. [Clustered Object Detection in Aerial Images](https://arxiv.org/abs/2105.02440)【ICCV】【2019】
+18. [Clustered Object Detection in Aerial Images](https://arxiv.org/abs/1904.08008)【ICCV】【2019】
 19. [Dynamic Zoom-in Network for Fast Object Detection in Large Images](https://arxiv.org/abs/1711.05187)【CVPR】【2018】
 20. [Adaptive Object Detection Using Adjacency and Zoom Prediction](https://arxiv.org/abs/1512.07711)【CVPR】【2016】
