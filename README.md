@@ -10,7 +10,7 @@
 
 | Source |                            Paper                             |                        Code                        |              Note               |
 | :----: | :----------------------------------------------------------: | :------------------------------------------------: | :-----------------------------: |
-| TCSVT  | [Pareto Refocusing for Drone-view Object Detection](https://ieeexplore.ieee.org/document/9905640) |                         -                          | <font color=#ffb5b3>裁剪</font> |
+| TCSVT  | [Pareto Refocusing for Drone-view Object Detection](https://ieeexplore.ieee.org/document/9905640) |                         -                          | 裁剪 |
 |  CVPR  | [QueryDet: Cascaded Sparse Query for Accelerating High-Resolution Small Object Detection](https://arxiv.org/abs/2103.09136) | https://github.com/ChenhongyiYang/QueryDet-PyTorch |                                 |
 |   PR   | [mSODANet: A network for multi-scale object detection in aerial images using hierarchical dilated convolutions](https://www.sciencedirect.com/science/article/pii/S0031320322000292) |                         -                          |                                 |
 
@@ -20,7 +20,7 @@
 | :----: | :----------------------------------------------------------: | :-------------------------------------: | :-----------------------------: |
 |  CVPR  | [Detection, Tracking, and Counting Meets Drones in Crowds: A Benchmark](https://arxiv.org/abs/2105.02440) |                    -                    |                                 |
 | ICCVW  | [VistrongerDet: Stronger Visual Information for Object Detection in VisDrone Images](https://ieeexplore.ieee.org/document/9607555) |                    -                    |                                 |
-| ICCVW  | [Coarse-grained Density Map Guided Object Detection in Aerial Images](https://ieeexplore.ieee.org/document/9607840) |                    -                    | <font color=#ffb5b3>裁剪</font> |
+| ICCVW  | [Coarse-grained Density Map Guided Object Detection in Aerial Images](https://ieeexplore.ieee.org/document/9607840) |                    -                    | 裁剪 |
 | ICCVW  | [TPH-YOLOv5: Improved YOLOv5 Based on Transformer Prediction Head for Object Detection on Drone-captured Scenarios](https://arxiv.org/abs/2108.11539) | https://github.com/cv516Buaa/tph-yolov5 |                                 |
 | ICCVW  | [ViT-YOLO:Transformer-Based YOLO for Object Detection](https://ieeexplore.ieee.org/document/9607536) |                                         |                                 |
 
