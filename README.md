@@ -41,7 +41,7 @@
 | CVPRW  | [[The Power of Tiling for Small Object Detection](https://ieeexplore.ieee.org/document/9025422)](https://ieeexplore.ieee.org/document/9022557) |                              -                               | 裁剪|
 | TCSVT  | [Small Object Detection in Unmanned Aerial Vehicle Images Using Feature Fusion and Scaling-Based Single Shot Detector With Spatial Context Analysis](https://ieeexplore.ieee.org/document/8672115) |                              -                               |                                 |
 |  TIE   | [Simultaneously Detecting and Counting Dense Vehicles From Drone Images](https://ieeexplore.ieee.org/document/8648370) |                              -                               |                                 |
-|  ICCV  | [Clustered Object Detection in Aerial Images](https://arxiv.org/abs/1904.08008) | https://github.com/fyangneil/Clustered-Object-Detection-in-Aerial-Image | 裁剪|
+|  ICCV  | **[Clustered Object Detection in Aerial Images](https://arxiv.org/abs/1904.08008)** | https://github.com/fyangneil/Clustered-Object-Detection-in-Aerial-Image | 裁剪|
 
 ### 其他
 
