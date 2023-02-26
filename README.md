@@ -44,6 +44,7 @@
 | TCSVT  | [Small Object Detection in Unmanned Aerial Vehicle Images Using Feature Fusion and Scaling-Based Single Shot Detector With Spatial Context Analysis](https://ieeexplore.ieee.org/document/8672115) |                              -                               |                                 |
 |  TIE   | [Simultaneously Detecting and Counting Dense Vehicles From Drone Images](https://ieeexplore.ieee.org/document/8648370) |                              -                               |                                 |
 |  ICCV  | **[Clustered Object Detection in Aerial Images](https://arxiv.org/abs/1904.08008)** | https://github.com/fyangneil/Clustered-Object-Detection-in-Aerial-Image | 裁剪|
+|TGRS|[R2-CNN: Fast Tiny Object Detection in Large-Scale Remote Sensing Images](https://arxiv.org/abs/1902.06042)|-|
 
 ### 其他
 
