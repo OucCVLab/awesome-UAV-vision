@@ -47,6 +47,11 @@
 |TGRS|[R2-CNN: Fast Tiny Object Detection in Large-Scale Remote Sensing Images](https://arxiv.org/abs/1902.06042)|-|遥感|
 |TGRS|[Hierarchical and Robust Convolutional Neural Network for Very High-Resolution Remote Sensing Object Detection](https://ieeexplore.ieee.org/document/8676107)|-|遥感|
 
+### 2018
+| Source |                            Paper                             | Code | Note |
+| :----: | :----------------------------------------------------------: | :--: | :--: |
+|GRSL|[Multiscale Visual Attention Networks for Object Detection in VHR Remote Sensing Images](https://ieeexplore.ieee.org/document/8513990)|-||
+
 ### 2017
 | Source |                            Paper                             | Code | Note |
 | :----: | :----------------------------------------------------------: | :--: | :--: |
