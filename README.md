@@ -56,6 +56,7 @@
 | Source |                            Paper                             | Code | Note |
 | :----: | :----------------------------------------------------------: | :--: | :--: |
 |TGRS|[Accurate Object Localization in Remote Sensing Images Based on Convolutional Neural Networks](https://ieeexplore.ieee.org/document/7827088)|-|遥感|
+|TIP|[Random Access Memories: A New Paradigm for Target Detection in High Resolution Aerial Remote Sensing Images](https://ieeexplore.ieee.org/document/8106808)|-|遥感|
 
 ### 其他
 
