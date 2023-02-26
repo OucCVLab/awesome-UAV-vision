@@ -50,7 +50,7 @@
 ### 2018
 | Source |                            Paper                             | Code | Note |
 | :----: | :----------------------------------------------------------: | :--: | :--: |
-|GRSL|[Multiscale Visual Attention Networks for Object Detection in VHR Remote Sensing Images](https://ieeexplore.ieee.org/document/8513990)|-||
+|GRSL|[Multiscale Visual Attention Networks for Object Detection in VHR Remote Sensing Images](https://ieeexplore.ieee.org/document/8513990)|-|遥感|
 
 ### 2017
 | Source |                            Paper                             | Code | Note |
