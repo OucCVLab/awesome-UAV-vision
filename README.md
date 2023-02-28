@@ -69,4 +69,4 @@
 | Source |                            Paper                             | Code | Note |
 | :----: | :----------------------------------------------------------: | :--: | :--: |
 |ICCV2019|[Collaborative Global-Local Networks for Memory-Efficient Segmentation of
-Ultra-High Resolution Images](https://openaccess.thecvf.com/content_CVPR_2019/papers/Chen_Collaborative_Global-Local_Networks_for_Memory-Efficient_Segmentation_of_Ultra-High_Resolution_Images_CVPR_2019_paper.pdf)|https://github.com/VITA-Group/GLNet|-|
+Ultra-High Resolution Images]|https://github.com/VITA-Group/GLNet|-|
