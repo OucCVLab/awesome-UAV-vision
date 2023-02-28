@@ -62,5 +62,11 @@
 
 | Source |                            Paper                             | Code | Note |
 | :----: | :----------------------------------------------------------: | :--: | :--: |
-| CVPR18 | [[Dynamic Zoom-in Network for Fast Object Detection in Large Images](https://arxiv.org/abs/1711.05187)](https://openaccess.thecvf.com/content_ICCVW_2019/papers/VISDrone/Wang_Spatial_Attention_for_Multi-Scale_Feature_Refinement_for_Object_Detection_ICCVW_2019_paper.pdf) |  -   |      |
+| CVPR18 | [Dynamic Zoom-in Network for Fast Object Detection in Large Images](https://arxiv.org/abs/1711.05187) |  -   |      |
 | CVPR16 | [Adaptive Object Detection Using Adjacency and Zoom Prediction](https://arxiv.org/abs/1512.07711) |  -   |      |
+
+### 高分辨处理相关
+| Source |                            Paper                             | Code | Note |
+| :----: | :----------------------------------------------------------: | :--: | :--: |
+|ICCV2019|[Collaborative Global-Local Networks for Memory-Efficient Segmentation of
+Ultra-High Resolution Images](https://openaccess.thecvf.com/content_CVPR_2019/papers/Chen_Collaborative_Global-Local_Networks_for_Memory-Efficient_Segmentation_of_Ultra-High_Resolution_Images_CVPR_2019_paper.pdf)|https://github.com/VITA-Group/GLNet|-|
