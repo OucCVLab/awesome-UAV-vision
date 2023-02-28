@@ -68,4 +68,5 @@
 ### 高分辨处理相关
 | Source |                            Paper                             | Code | Note |
 | :----: | :----------------------------------------------------------: | :--: | :--: |
-|ICCV2019|Collaborative Global-Local Networks for Memory-Efﬁcient Segmentation of Ultra-High Resolution Images|https://github.com/VITA-Group/GLNet||
+|ICCV2019|[Collaborative Global-Local Networks for Memory-Efﬁcient Segmentation of Ultra-High Resolution Images](https://arxiv.org/abs/1905.06368)|https://github.com/VITA-Group/GLNet||
+|AAAI2020|[Patch Proposal Network for Fast Semantic Segmentation of High-Resolution Images](https://ojs.aaai.org/index.php/AAAI/article/view/6926)|-||
