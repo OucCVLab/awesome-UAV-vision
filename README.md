@@ -70,6 +70,6 @@
 | :----: | :----------------------------------------------------------: | :--: | :--: |
 |CVPR22|[ISDNet: Integrating Shallow and Deep Networks for Efficient Ultra-high Resolution Segmentation](https://arxiv.org/pdf/2211.11316)|https://github.com/cedricgsh/ISDNet||
 |CVPR21|[Progressive Semantic Segmentation](https://arxiv.org/abs/2104.03778)|https://github.com/VinAIResearch/MagNet||
-|CVPR20|[CascadePSP: Toward Class-Agnostic and Very High-Resolution Segmentation via Global and Local Refinement]|https://github.com/hkchengrex/CascadePSP||
+|CVPR20|CascadePSP: Toward Class-Agnostic and Very High-Resolution Segmentation via Global and Local Refinement(https://arxiv.org/abs/2005.02551)|https://github.com/hkchengrex/CascadePSP||
 |AAAI20|[Patch Proposal Network for Fast Semantic Segmentation of High-Resolution Images](https://ojs.aaai.org/index.php/AAAI/article/view/6926)|-||
 |ICCV19|[Collaborative Global-Local Networks for Memory-Efﬁcient Segmentation of Ultra-High Resolution Images](https://arxiv.org/abs/1905.06368)|https://github.com/VITA-Group/GLNet||
