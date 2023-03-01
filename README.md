@@ -25,6 +25,7 @@
 | ICCVW  | [TPH-YOLOv5: Improved YOLOv5 Based on Transformer Prediction Head for Object Detection on Drone-captured Scenarios](https://arxiv.org/abs/2108.11539) | https://github.com/cv516Buaa/tph-yolov5 |      |
 | ICCVW  | [ViT-YOLO:Transformer-Based YOLO for Object Detection](https://ieeexplore.ieee.org/document/9607536) |                                         |      |
 |  WACV  | [Towards Resolving the Challenge of Long-tail Distribution in UAV Images for Object Detection](https://ieeexplore.ieee.org/document/9423170) |   https://github.com/we1pingyu/DSHNet   |      |
+|ICME|[HRDNet: High-Resolution Detection Network for Small Objects](https://arxiv.org/abs/2006.07607)|-||
 
 ### 2020
 
