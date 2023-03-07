@@ -4,6 +4,7 @@
 
 |      Source      |                            Paper                             | Code | Note |
 | :--------------: | :----------------------------------------------------------: | :--: | :--: |
+|arXiv|[Confidence-driven Bounding Box Localization for Small Object Detection](https://arxiv.org/abs/2303.01803)|-|小目标检测|
 | 中国图像图形学报 | [无人机视角下的目标检测研究进展](http://www.cjig.cn/jig/ch/reader/view_abstract.aspx?flag=2&file_no=202208160000003&journal_id=jig) |  -   | 综述 |
 
 ###  2022
