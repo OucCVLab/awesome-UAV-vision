@@ -11,6 +11,7 @@
 
 | Source |                            Paper                             |                        Code                        | Note |
 | :----: | :----------------------------------------------------------: | :------------------------------------------------: | :--: |
+|ICIP|[Slicing Aided Hyper Inference and Fine-tuning for Small Object Detection](https://arxiv.org/abs/2202.06934)|https://github.com/obss/sahi|高分辨率切图工具SAHI|
 | TCSVT  | [Pareto Refocusing for Drone-view Object Detection](https://ieeexplore.ieee.org/document/9905640) |                         -                          | 裁剪 |
 |  CVPR  | [QueryDet: Cascaded Sparse Query for Accelerating High-Resolution Small Object Detection](https://arxiv.org/abs/2103.09136) | https://github.com/ChenhongyiYang/QueryDet-PyTorch |      |
 |   PR   | [mSODANet: A network for multi-scale object detection in aerial images using hierarchical dilated convolutions](https://www.sciencedirect.com/science/article/pii/S0031320322000292) |                         -                          |      |
