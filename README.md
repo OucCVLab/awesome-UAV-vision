@@ -77,6 +77,7 @@
 | CVPR18 | [Dynamic Zoom-in Network for Fast Object Detection in Large Images](https://arxiv.org/abs/1711.05187) |  -   |      |
 | CVPR16 | [Adaptive Object Detection Using Adjacency and Zoom Prediction](https://arxiv.org/abs/1512.07711) |  -   |      |
 
+## segmentation
 ### 分割领域中与高分辨处理相关的文章
 
 | Source |                            Paper                             |                   Code                   | Note |
