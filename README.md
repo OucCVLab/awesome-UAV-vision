@@ -4,20 +4,20 @@
 
 ### 2023
 
-|      Source      |                            Paper                             | Code | Note |
-| :--------------: | :----------------------------------------------------------: | :--: | :--: |
-|arXiv|[Confidence-driven Bounding Box Localization for Small Object Detection](https://arxiv.org/abs/2303.01803)|-|小目标检测|
-| 中国图像图形学报 | [无人机视角下的目标检测研究进展](http://www.cjig.cn/jig/ch/reader/view_abstract.aspx?flag=2&file_no=202208160000003&journal_id=jig) |  -   | 综述 |
+|      Source      |                            Paper                             | Code |    Note    |
+| :--------------: | :----------------------------------------------------------: | :--: | :--------: |
+|      arXiv       | [Confidence-driven Bounding Box Localization for Small Object Detection](https://arxiv.org/abs/2303.01803) |  -   | 小目标检测 |
+| 中国图像图形学报 | [无人机视角下的目标检测研究进展](http://www.cjig.cn/jig/ch/reader/view_abstract.aspx?flag=2&file_no=202208160000003&journal_id=jig) |  -   |    综述    |
 
 ###  2022
 
-| Source |                            Paper                             |                        Code                        | Note |
-| :----: | :----------------------------------------------------------: | :------------------------------------------------: | :--: |
-|ICIP|[Slicing Aided Hyper Inference and Fine-tuning for Small Object Detection](https://arxiv.org/abs/2202.06934)|https://github.com/obss/sahi|高分辨率切图工具SAHI|
-| TCSVT  | [Pareto Refocusing for Drone-view Object Detection](https://ieeexplore.ieee.org/document/9905640) |                         -                          | 裁剪 |
-|  CVPR  | [QueryDet: Cascaded Sparse Query for Accelerating High-Resolution Small Object Detection](https://arxiv.org/abs/2103.09136) | https://github.com/ChenhongyiYang/QueryDet-PyTorch |      |
-|   PR   | [mSODANet: A network for multi-scale object detection in aerial images using hierarchical dilated convolutions](https://www.sciencedirect.com/science/article/pii/S0031320322000292) |                         -                          |      |
-| arXiv  | [Fewer is More: Efficient Object Detection in Large Aerial Images](https://arxiv.org/abs/2212.13136) |          https://github.com/Ranchosky/OAN          | 裁剪 |
+| Source |                            Paper                             |                        Code                        |         Note         |
+| :----: | :----------------------------------------------------------: | :------------------------------------------------: | :------------------: |
+|  ICIP  | [Slicing Aided Hyper Inference and Fine-tuning for Small Object Detection](https://arxiv.org/abs/2202.06934) |            https://github.com/obss/sahi            | 高分辨率切图工具SAHI |
+| TCSVT  | [Pareto Refocusing for Drone-view Object Detection](https://ieeexplore.ieee.org/document/9905640) |                         -                          |         裁剪         |
+|  CVPR  | [QueryDet: Cascaded Sparse Query for Accelerating High-Resolution Small Object Detection](https://arxiv.org/abs/2103.09136) | https://github.com/ChenhongyiYang/QueryDet-PyTorch |                      |
+|   PR   | [mSODANet: A network for multi-scale object detection in aerial images using hierarchical dilated convolutions](https://www.sciencedirect.com/science/article/pii/S0031320322000292) |                         -                          |                      |
+| arXiv  | [Fewer is More: Efficient Object Detection in Large Aerial Images](https://arxiv.org/abs/2212.13136) |          https://github.com/Ranchosky/OAN          |         裁剪         |
 
 ### 2021
 
@@ -29,7 +29,7 @@
 | ICCVW  | [TPH-YOLOv5: Improved YOLOv5 Based on Transformer Prediction Head for Object Detection on Drone-captured Scenarios](https://arxiv.org/abs/2108.11539) | https://github.com/cv516Buaa/tph-yolov5 |      |
 | ICCVW  | [ViT-YOLO:Transformer-Based YOLO for Object Detection](https://ieeexplore.ieee.org/document/9607536) |                                         |      |
 |  WACV  | [Towards Resolving the Challenge of Long-tail Distribution in UAV Images for Object Detection](https://ieeexplore.ieee.org/document/9423170) |   https://github.com/we1pingyu/DSHNet   |      |
-|ICME|[HRDNet: High-Resolution Detection Network for Small Objects](https://arxiv.org/abs/2006.07607)|-||
+|  ICME  | [HRDNet: High-Resolution Detection Network for Small Objects](https://arxiv.org/abs/2006.07607) |                    -                    |      |
 
 ### 2020
 
@@ -66,9 +66,10 @@
 |  TIP   | [Random Access Memories: A New Paradigm for Target Detection in High Resolution Aerial Remote Sensing Images](https://ieeexplore.ieee.org/document/8106808) |  -   | 遥感 |
 
 ### 2016
-| Source |                            Paper                             | Code | Note |
-| :----: | :----------------------------------------------------------: | :--: | :--: |
-|ACCV|[R-CNN for Small Object Detection](https://link.springer.com/chapter/10.1007/978-3-319-54193-8_14)|-|小目标检测|     
+
+| Source |                            Paper                             | Code |    Note    |
+| :----: | :----------------------------------------------------------: | :--: | :--------: |
+|  ACCV  | [R-CNN for Small Object Detection](https://link.springer.com/chapter/10.1007/978-3-319-54193-8_14) |  -   | 小目标检测 |
 
 ### 其他
 
@@ -78,14 +79,14 @@
 | CVPR16 | [Adaptive Object Detection Using Adjacency and Zoom Prediction](https://arxiv.org/abs/1512.07711) |  -   |      |
 
 ## segmentation
+
 ### 分割领域中与高分辨处理相关的文章
 
 | Source |                            Paper                             |                   Code                   | Note |
 | :----: | :----------------------------------------------------------: | :--------------------------------------: | :--: |
 | CVPR22 | [ISDNet: Integrating Shallow and Deep Networks for Efficient Ultra-high Resolution Segmentation](https://arxiv.org/pdf/2211.11316) |   https://github.com/cedricgsh/ISDNet    |      |
-| CVPR21 | [Progressive Semantic Segmentation](https://arxiv.org/abs/2104.03778) | https://github.com/VinAIResearch/MagNet  ||
-|ICCV21|[From Contexts to Locality: Ultra-high Resolution Image Segmentation via Locality-aware Contextual Correlation](https://openaccess.thecvf.com/content/ICCV2021/papers/Li_From_Contexts_to_Locality_Ultra-High_Resolution_Image_Segmentation_via_Locality-Aware_ICCV_2021_paper.pdf)|https://github.com/liqiokkk/FCtl||
+| CVPR21 | [Progressive Semantic Segmentation](https://arxiv.org/abs/2104.03778) | https://github.com/VinAIResearch/MagNet  |      |
+| ICCV21 | [From Contexts to Locality: Ultra-high Resolution Image Segmentation via Locality-aware Contextual Correlation](https://openaccess.thecvf.com/content/ICCV2021/papers/Li_From_Contexts_to_Locality_Ultra-High_Resolution_Image_Segmentation_via_Locality-Aware_ICCV_2021_paper.pdf) |     https://github.com/liqiokkk/FCtl     |      |
 | CVPR20 | [CascadePSP: Toward Class-Agnostic and Very High-Resolution Segmentation via Global and Local Refinement](https://arxiv.org/abs/2005.02551) | https://github.com/hkchengrex/CascadePSP |      |
 | AAAI20 | [Patch Proposal Network for Fast Semantic Segmentation of High-Resolution Images](https://ojs.aaai.org/index.php/AAAI/article/view/6926) |                    -                     |      |
 | ICCV19 | [Collaborative Global-Local Networks for Memory-Efﬁcient Segmentation of Ultra-High Resolution Images](https://arxiv.org/abs/1905.06368) |   https://github.com/VITA-Group/GLNet    |      |
-
