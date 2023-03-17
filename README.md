@@ -1,4 +1,6 @@
-# awesome-drone-detection
+# awesome-drone-vision
+
+## detection
 
 ### 2023
 
