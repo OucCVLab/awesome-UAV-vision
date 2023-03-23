@@ -4,6 +4,7 @@
 
 |      Source      |                            Paper                             | Code |    Note    |
 | :--------------: | :----------------------------------------------------------: | :--: | :--------: |
+|arXiv23|[Cascaded Zoom-in Detector for High Resolution Aerial Images](https://arxiv.org/pdf/2303.08747)|-|裁剪|
 |      arXiv23       | [Confidence-driven Bounding Box Localization for Small Object Detection](https://arxiv.org/abs/2303.01803) |  -   | 小目标检测 |
 | 中国图像图形学报23 | [无人机视角下的目标检测研究进展](http://www.cjig.cn/jig/ch/reader/view_abstract.aspx?flag=2&file_no=202208160000003&journal_id=jig) |  -   |    综述    |
 |  ICIP22  | [Slicing Aided Hyper Inference and Fine-tuning for Small Object Detection](https://arxiv.org/abs/2202.06934) |            https://github.com/obss/sahi            | 高分辨率切图工具SAHI |
