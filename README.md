@@ -1,7 +1,5 @@
 # awesome-drone-vision
 
-
-
 ## detection
 
 ### 数据集
