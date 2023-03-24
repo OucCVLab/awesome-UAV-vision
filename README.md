@@ -1,12 +1,14 @@
 # awesome-drone-vision
 
-## 数据集
-|      Source      |                            Paper                             | Code |    Note    |
-| :--------------: | :----------------------------------------------------------: | :--: | :--------: |
-|arXiv22|[HIT-UAV: A High-altitude Infrared Thermal Dataset for Unmanned Aerial Vehicles](https://arxiv.org/abs/2204.03245)|https://github.com/suojiashun/HIT-UAV-Infrared-Thermal-Dataset|8位红外数据|
+
 
 ## detection
 
+### 数据集
+|      Source      |                            Paper                             | Code |    Note    |
+| :--------------: | :----------------------------------------------------------: | :--: | :--------: |
+|arXiv22|[HIT-UAV: A High-altitude Infrared Thermal Dataset for Unmanned Aerial Vehicles](https://arxiv.org/abs/2204.03245)|https://github.com/suojiashun/HIT-UAV-Infrared-Thermal-Dataset|8位红外数据|
+### 论文
 |      Source      |                            Paper                             | Code |    Note    |
 | :--------------: | :----------------------------------------------------------: | :--: | :--------: |
 |arXiv23|[Cascaded Zoom-in Detector for High Resolution Aerial Images](https://arxiv.org/pdf/2303.08747)|-|裁剪|
@@ -40,7 +42,7 @@
 |  TIP17   | [Random Access Memories: A New Paradigm for Target Detection in High Resolution Aerial Remote Sensing Images](https://ieeexplore.ieee.org/document/8106808) |  -   | 遥感 |
 |  ACCV16  | [R-CNN for Small Object Detection](https://link.springer.com/chapter/10.1007/978-3-319-54193-8_14) |  -   | 小目标检测 |  
 
-### 其他
+### 其他可借鉴
 
 | Source |                            Paper                             | Code | Note |
 | :----: | :----------------------------------------------------------: | :--: | :--: |
