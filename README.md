@@ -1,4 +1,4 @@
-# awesome-drone-vision
+# awesome-UAV-vision
 
 ## detection
 
