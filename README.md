@@ -3,6 +3,7 @@
 ## 数据集
 |      Source      |                            Paper                             | Code |    Note    |
 | :--------------: | :----------------------------------------------------------: | :--: | :--------: |
+|arXiv22|[HIT-UAV: A High-altitude Infrared Thermal Dataset for Unmanned Aerial Vehicles](https://arxiv.org/abs/2204.03245)|https://github.com/suojiashun/HIT-UAV-Infrared-Thermal-Dataset|8位红外数据|
 
 ## detection
 
