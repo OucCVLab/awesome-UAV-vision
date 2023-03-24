@@ -61,3 +61,13 @@
 | CVPR20 | [CascadePSP: Toward Class-Agnostic and Very High-Resolution Segmentation via Global and Local Refinement](https://arxiv.org/abs/2005.02551) | https://github.com/hkchengrex/CascadePSP |      |
 | AAAI20 | [Patch Proposal Network for Fast Semantic Segmentation of High-Resolution Images](https://ojs.aaai.org/index.php/AAAI/article/view/6926) |                    -                     |      |
 | ICCV19 | [Collaborative Global-Local Networks for Memory-Efﬁcient Segmentation of Ultra-High Resolution Images](https://arxiv.org/abs/1905.06368) |   https://github.com/VITA-Group/GLNet    |      |
+
+
+## MOT
+
+### 数据集
+| Source |                            Paper                             |                   Code                   | Note |
+| :----: | :----------------------------------------------------------: | :--------------------------------------: | :--: |
+|TMM23|[Robust Multi-Drone Multi-Target Tracking to Resolve Target Occlusion: A Benchmark](https://ieeexplore.ieee.org/document/10008047)|||
+
+
