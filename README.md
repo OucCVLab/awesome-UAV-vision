@@ -1,8 +1,18 @@
-# awesome-UAV-vision
+- [国内外从事相关工作的实验室](#国内外从事相关工作的实验室)
+- [detection](#detection)
+  - [数据集](#数据集)
+  - [论文](#论文)
+  - [其他可借鉴](#其他可借鉴)
+- [segmentation](#segmentation)
+  - [分割领域中与高分辨处理相关的文章](#分割领域中与高分辨处理相关的文章)
+- [MOT](#mot)
+  - [数据集](#数据集-1)
+- [SOT](#sot)
+- [CrowdCouting](#crowdcouting)
 
 ## 国内外从事相关工作的实验室
 - 【同济大学】https://vision4robotics.github.io/ 【无人机单目标跟踪】
-## detection
+## Detection
 
 ### 数据集
 |      Source      |                            Paper                             | Code |    Note    |
@@ -51,7 +61,7 @@
 | CVPR18 | [Dynamic Zoom-in Network for Fast Object Detection in Large Images](https://arxiv.org/abs/1711.05187) |  -   |      |
 | CVPR16 | [Adaptive Object Detection Using Adjacency and Zoom Prediction](https://arxiv.org/abs/1512.07711) |  -   |      |
 
-## segmentation
+## Segmentation
 
 ### 分割领域中与高分辨处理相关的文章
 
