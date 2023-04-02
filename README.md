@@ -44,6 +44,7 @@
 | ICCVW20  | [Spatial Attention for Multi-Scale Feature Refinement for Object Detection](https://openaccess.thecvf.com/content_ICCVW_2019/papers/VISDrone/Wang_Spatial_Attention_for_Multi-Scale_Feature_Refinement_for_Object_Detection_ICCVW_2019_paper.pdf) |                              -                               |      |
 | ICCVW20  | [How to Fully Exploit The Abilities of Aerial Image Detectors](https://ieeexplore.ieee.org/document/9022557) |                              -                               | 裁剪 |
 | CVPRW20  | [[The Power of Tiling for Small Object Detection](https://ieeexplore.ieee.org/document/9025422)](https://ieeexplore.ieee.org/document/9022557) |                              -                               | 裁剪 |
+|ICCVW19|[SlimYOLOv3: Narrower, Faster and Better for Real-Time UAV Applications](https://arxiv.org/abs/1907.11093)|https://github.com/PengyiZhang/SlimYOLOv3|
 | TCSVT19  | [Small Object Detection in Unmanned Aerial Vehicle Images Using Feature Fusion and Scaling-Based Single Shot Detector With Spatial Context Analysis](https://ieeexplore.ieee.org/document/8672115) |                              -                               |      |
 |  TIE19   | [Simultaneously Detecting and Counting Dense Vehicles From Drone Images](https://ieeexplore.ieee.org/document/8648370) |                              -                               |      |
 |  ICCV19  | **[Clustered Object Detection in Aerial Images](https://arxiv.org/abs/1904.08008)** | https://github.com/fyangneil/Clustered-Object-Detection-in-Aerial-Image | 裁剪 |
