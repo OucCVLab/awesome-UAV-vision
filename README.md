@@ -36,7 +36,7 @@
 | ICCVW21  | [Coarse-grained Density Map Guided Object Detection in Aerial Images](https://ieeexplore.ieee.org/document/9607840) |                    -                    | 裁剪 |
 | ICCVW21  | [TPH-YOLOv5: Improved YOLOv5 Based on Transformer Prediction Head for Object Detection on Drone-captured Scenarios](https://arxiv.org/abs/2108.11539) | https://github.com/cv516Buaa/tph-yolov5 |      |
 | ICCVW21  | [ViT-YOLO:Transformer-Based YOLO for Object Detection](https://ieeexplore.ieee.org/document/9607536) |                                         |      |
-|  WACV21  | [Towards Resolving the Challenge of Long-tail Distribution in UAV Images for Object Detection](https://ieeexplore.ieee.org/document/9423170) |   https://github.com/we1pingyu/DSHNet   |      |
+|  WACV21  | [Towards Resolving the Challenge of Long-tail Distribution in UAV Images for Object Detection](https://ieeexplore.ieee.org/document/9423170) |   https://github.com/we1pingyu/DSHNet   |长尾分布|
 |  ICME21  | [HRDNet: High-Resolution Detection Network for Small Objects](https://arxiv.org/abs/2006.07607) |                    -                    |      |
 |  ECCV20  | [Object Detection Using Clustering Algorithm Adaptive Searching Regions in Aerial Images](https://link.springer.com/chapter/10.1007/978-3-030-66823-5_39)     |                 -                  |                                 |
 |  TIP20   | [A Global-Local Self-Adaptive Network for Drone-View Object Detection](https://ieeexplore.ieee.org/document/9305976) | https://github.com/dengsutao/glsan | <font color=#ffb5b3>裁剪</font> |
